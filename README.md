@@ -16,4 +16,10 @@ I'm a computer technician and fullstack jr. web developer. At the moment I'm exp
 - ✔ Ask me about anything, I'll be happy to help <br>
 - 📫 Reach out to me at: <a href="seleneguiridlian@gmail.com">seleneguiridlian@gmail.com</a>
 
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Github stats***
+<div align="center">
+<a href="https://github.com/seleguir">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seleguir&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seleguir&layout=compact&langs_count=7&theme=default"/></a>
+</div> 
 
