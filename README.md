@@ -8,7 +8,7 @@
 
 <img align="right" width=300px alt="Gif" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"/> 
 
- <h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px">&nbsp;About me></h2>
+ <h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px" style="italic">&nbsp;About me</h2>
 
 I'm a computer technician and fullstack jr. web developer. At the moment I'm expanding my knowledge in both front-end development. I love to learn and build something new, productive, innovative and creative.
 * **Particularly interested in web designing, graphic design and digital marketing**
