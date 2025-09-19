@@ -55,6 +55,6 @@ I'm a computer technician and fullstack jr. web developer. At the moment I'm exp
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 <a href= https://www.linkedin.com/in/seleguir">
-    <img src="https://img.shields.io/badge/LinkedIn-%23E4405F.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
