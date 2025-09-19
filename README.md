@@ -7,6 +7,7 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
+**
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***| About me***
 
 I'm a computer technician and fullstack jr. web developer. At the moment I'm expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
@@ -22,4 +23,6 @@ I'm a computer technician and fullstack jr. web developer. At the moment I'm exp
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seleguir&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seleguir&layout=compact&langs_count=7&theme=default"/></a>
 </div> 
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***| My skills***
 
