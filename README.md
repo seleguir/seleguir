@@ -6,7 +6,8 @@
 **seleguir/seleguir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 --> 
 
-<img align="right" width=300px alt="Gif" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /> 
+<img align="right" width=300px alt="Gif" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"/> 
+
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I'm a computer technician and fullstack jr. web developer. At the moment I'm expanding my knowledge in both front-end development. I love to learn and build something new, productive, innovative and creative.
