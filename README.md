@@ -13,7 +13,7 @@ I'm a computer technician and fullstack jr. web developer. At the moment I'm exp
 * **Particularly interested in web designing, graphic design and digital marketing**
 - 🌱 I’m currently learning Python
 - 👯 I’m looking forward to collaborate on open source projects
-- ✔ Ask me about anything, I am happy to help <br>
+- ✔ Ask me about anything, I'll be happy to help <br>
 - 📫 Reach out to me at: <a href="seleneguiridlian@gmail.com">seleneguiridlian@gmail.com</a>
 
 
