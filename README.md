@@ -8,7 +8,7 @@
 
 <img align="right" width=300px alt="Gif" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"/> 
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***"/> 
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px">&nbsp;***About me***" 
 I'm a computer technician and fullstack jr. web developer. At the moment I'm expanding my knowledge in both front-end development. I love to learn and build something new, productive, innovative and creative.
 * **Particularly interested in web designing, graphic design and digital marketing**
 - 🌱 I’m currently learning Python
@@ -23,7 +23,7 @@ I'm a computer technician and fullstack jr. web developer. At the moment I'm exp
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seleguir&layout=compact&langs_count=7&theme=default"/></a>
 </div> 
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***My skills***"/> 
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***My skills***"
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
