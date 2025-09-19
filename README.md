@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Sele!;" /></h1> 
+<h1><img src="https://readme-typing-svg.herokuapp.com/?align=center&font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Sele!;" /></h1> 
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=seleguir-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/seleguir.svg?style=social&label=Follow)](https://github.com/seleguir?tab=followers)<br/>
 
