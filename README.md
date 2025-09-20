@@ -10,7 +10,7 @@
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I'm a computer technician and fullstack jr. web developer. At the moment I'm expanding my knowledge in both front-end development. I love to learn and build something new, productive, innovative and creative.
+I'm a computer technician and fullstack jr. web developer. At the moment I'm expanding my knowledge in front-end development. I love to learn and build something new, productive, innovative and creative.
 * **Particularly interested in web designing, graphic design and digital marketing**
 - 🌱 I’m currently learning Python
 - 👯 I’m looking forward to collaborate on open source projects
